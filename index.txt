@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Chidi Christopher
+Chidi Christopher
 Web developer
 
 Show Contacts
